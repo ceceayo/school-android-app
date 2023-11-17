@@ -19,5 +19,6 @@ App waarbij:
     - software die de notities naar bijvoorbeeld `HTML` of `LaTeX` kan exporteren
     - ook automatisch
     - geschreven in JavaScript of Python d.m.v. embedded runtime
+    - mag ook in C of BASH indien gewenst; dit is echter platform specifiek en dus niet aangeraden.
     - op basis van frontmatter kiezen of een object geexporteerd dient te worden
     - two way sync mogelijk indien gewenst
