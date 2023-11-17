@@ -16,6 +16,6 @@ App waarbij:
     - in frontmatter
     - `dateEdited`, `dateCreated`, `formatVersion`, etc automatisch instellen 
 - exporters
-    - software die de notities naar bijvoorbeeld HTML of LaTeX kan exporteren
+    - software die de notities naar bijvoorbeeld `HTML` of `LaTeX` kan exporteren
     - ook automatisch
     - geschreven in JavaScript of Python d.m.v. embedded runtime
