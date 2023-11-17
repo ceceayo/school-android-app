@@ -20,3 +20,4 @@ App waarbij:
     - ook automatisch
     - geschreven in JavaScript of Python d.m.v. embedded runtime
     - op basis van frontmatter kiezen of een object geexporteerd dient te worden
+    - two way sync mogelijk indien gewenst
